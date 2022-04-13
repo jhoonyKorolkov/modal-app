@@ -1,6 +1,6 @@
 <p>
   Сделано на курсе
-  <a target="_blank" href="https://tocode.ru/courses/vuejs-3-s-nulya-do-rezultata/"
+  <a target="_blank" href="https://tocode.ru/courses/vuejs-s-nylya-do-pro/"
     >"Vue.js 2"</a
   >
 </p>
