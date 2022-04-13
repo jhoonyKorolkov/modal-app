@@ -1,4 +1,9 @@
-# modal-validation
+<p>
+  Сделано на курсе
+  <a target="_blank" href="https://tocode.ru/courses/vuejs-3-s-nulya-do-rezultata/"
+    >"Vue.js 2"</a
+  >
+</p>
 
 ## Project setup
 ```
